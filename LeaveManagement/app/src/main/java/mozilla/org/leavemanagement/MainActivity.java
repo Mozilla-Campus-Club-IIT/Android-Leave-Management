@@ -1,26 +1,13 @@
 package mozilla.org.leavemanagement;
 
 import android.app.Activity;
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.Toast;
-
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import java.io.IOException;
 
 import mozilla.org.leavemanagement.helper.AsyncTaskHelper;
-import mozilla.org.leavemanagement.helper.DataHelper;
-import mozilla.org.leavemanagement.helper.SharedPrefHelper;
 import mozilla.org.leavemanagement.model.User;
-import mozilla.org.leavemanagement.service.LoginService;
-import mozilla.org.leavemanagement.view.Dashboard;
-import mozilla.org.leavemanagement.view.HrViewRequestedLeave;
 
 public class MainActivity extends AppCompatActivity {
 

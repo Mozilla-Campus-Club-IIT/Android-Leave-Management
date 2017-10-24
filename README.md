@@ -1,3 +1,6 @@
+![header](https://github.com/Mozilla-Campus-Club-IIT/Android-Leave-Management/blob/master/file/hacktoberfesth1.jpg)
+![title](https://github.com/Mozilla-Campus-Club-IIT/Android-Leave-Management/blob/master/file/Collection5.jpg)
+
 # Android app for Hacktoberfest 2017
 
 A simple android application for hacktoberfest mainly focused on android basics components and CRUD operations

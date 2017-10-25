@@ -3,24 +3,11 @@ package mozilla.org.leavemanagement.view;
 import android.app.Activity;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
-import android.widget.Button;
-import android.widget.TextView;
-
-import java.util.ArrayList;
 
 import mozilla.org.leavemanagement.R;
-import mozilla.org.leavemanagement.model.BaseElement;
 
 
 public class Dashboard extends Activity {
-
-    private Activity mActivity;
-
-    private Button applyButton;
-    private Button viewRequestButton;
-    private ArrayList<BaseElement> leaveList;
-
-    private TextView remainigTextView;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {

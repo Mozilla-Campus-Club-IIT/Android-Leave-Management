@@ -23,6 +23,5 @@ public enum ServiceURL {
     public String getUrl() {
 
         return "http://192.168.0.102/LeaveManagement/"+url; /*my laptop*/
-//        return "http://192.168.8.103/LeaveManagement/" + url; /*my laptop*/
     }
 }
